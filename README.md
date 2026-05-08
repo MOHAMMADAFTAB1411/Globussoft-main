@@ -190,4 +190,4 @@ Face embedding is like:
 
 ## 👤 Author
 
-Puneet Kansal
+Mohammad Aftab
